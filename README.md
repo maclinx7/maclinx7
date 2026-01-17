@@ -4,15 +4,21 @@
 ---
 
 ## 👨‍💻 About Me
-- 🌱 Currently learning **Machine Learning, Deep Learning, Generative AI**
-- 🛠️ Building projects in **Regression, Classification, NLP, Computer Vision**
+- 🌱 Currently learning **Data Science, Machine Learning, Deep Learning**
+- 🛠️ Building projects related to **ML/DL/DS**
 - 📚 Exploring **Data Structures & Algorithms with Python**
 - 📫 Reach me at **sureshstr38@gmail.com**
 
 ---
 
 ## 🛠️ Tech Skills
-- **Languages:** Python, C++, Java
+- **Languages**:Proficient in Python and MySQL
 - **ML/DL:** Scikit-learn, PyTorch, XGBoost  
 - **Data Tools:** Pandas, NumPy, Matplotlib, Seaborn  
-- **Other Tools:** Git, Streamlit, Docker
+- **Other Tools:** Git, GitHub, Streamlit, Docker
+
+---
+
+## 🌐 Open Source Contributions (PyPI Packages)
+- **dfflow** - Lightweight pandas DataFrame logging and flow pipeline tracker.
+- **tensor-toolkit** - A lightweight PyTorch utility toolkit for tensor operations, validation, and model utilities.
