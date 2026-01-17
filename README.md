@@ -29,7 +29,8 @@ I enjoy working on:
 **Utility toolkit for PyTorch workflows**
 
 - Reusable helpers for model training & experimentation  
-- Designed to reduce boilerplate in deep learning projects  
+- Designed to reduce boilerplate in deep learning projects
+- Published on **PyPI**
 
 👉 Repo: https://github.com/maclinx7/tensor-toolkit
 
@@ -45,7 +46,8 @@ I enjoy working on:
 - Model evaluation & feature engineering  
 
 **Libraries**
-- NumPy, Pandas, scikit-learn  
+- NumPy, Pandas, scikit-learn
+- Matplotlib, Seaborn
 - PyTorch  
 
 **Tools**
