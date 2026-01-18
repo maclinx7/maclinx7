@@ -1,4 +1,5 @@
-# Hi, I'm Suresh 👋  
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Suresh
+===============================================================================================================================  
 ### Aspiring Machine Learning Engineer | Python • ML • Open Source
 
 I build **practical machine learning projects** and **open-source Python tools** focused on real-world data workflows.
