@@ -1,4 +1,4 @@
-# Hi I'm Suresh 👋 
+# Hi, I'm Suresh 👋 
 ### Aspiring Machine Learning Engineer | Python • ML • Open Source
 
 I build **practical machine learning projects** and **open-source Python tools** focused on real-world data workflows.
