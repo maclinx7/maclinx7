@@ -56,8 +56,6 @@ I enjoy working on:
 
 ---
 
-## 📊 GitHub Stats:
+## 📈 Activity:
 
-![](https://github-readme-stats.vercel.app/api?username=maclinx7&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=maclinx7&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maclinx7&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=maclinx7&theme=neon&hide_border=false)
