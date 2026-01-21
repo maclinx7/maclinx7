@@ -20,7 +20,7 @@ I enjoy working on:
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 ### 🔹 dfflow  
 **Lightweight DataFrame logging & pipeline tracker for pandas**
@@ -29,18 +29,7 @@ I enjoy working on:
 - Helps debug and understand ML preprocessing pipelines  
 - Published on **PyPI**    
 
-👉 Repo: https://github.com/maclinx7/dfflow
-
----
-
-### 🔹 tensor-toolkit
-**Utility toolkit for PyTorch workflows**
-
-- Reusable helpers for model training & experimentation  
-- Designed to reduce boilerplate in deep learning projects
-- Published on **PyPI**
-
-👉 Repo: https://github.com/maclinx7/tensor-toolkit
+👉 Repo: https://github.com/maclin-oss/dfflow
 
 ---
 
@@ -58,4 +47,4 @@ I enjoy working on:
 
 ## 📈 Activity:
 
-![](https://nirzak-streak-stats.vercel.app/?user=maclinx7&theme=neon&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=maclin-oss&theme=neon&hide_border=false)
